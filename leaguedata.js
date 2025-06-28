@@ -6,37 +6,37 @@ NL = new Array( "East", "Central", "West" );
 
 ALEast = new Array( "HBW", "BOL", "WAR", "MOH" );
 
-HBW = new Array("East", "Hammock Beach", "Wave", "Hammock Beach Wave (HBW)", "2025", "79", "36", "43", ".456", ".410", ".500" );
-BOL = new Array("East", "Bolivia", "Black Falcons", "Bolivia Black Falcons (BOL)", "2025", "82", "44", "38", ".537", ".487", ".581" );
-WAR = new Array("East", "Warminster", "Wild", "Warminster Wild (WAR)", "2025", "72", "32", "40", ".444", ".476", ".400" );
-MOH = new Array("East", "Mohawk", "Indian Arrows", "Mohawk Indian Arrows (MOH)", "2025", "66", "35", "31", ".530", ".417", ".667" );
+HBW = new Array("East", "Hammock Beach", "Wave", "Hammock Beach Wave (HBW)", "2025", "88", "41", "47", ".466", ".429", ".500" );
+BOL = new Array("East", "Bolivia", "Black Falcons", "Bolivia Black Falcons (BOL)", "2025", "88", "46", "42", ".523", ".467", ".581" );
+WAR = new Array("East", "Warminster", "Wild", "Warminster Wild (WAR)", "2025", "88", "38", "50", ".432", ".467", ".395" );
+MOH = new Array("East", "Mohawk", "Indian Arrows", "Mohawk Indian Arrows (MOH)", "2025", "88", "50", "38", ".568", ".476", ".652" );
 ALCentral = new Array( "PKK", "MEN", "LAC", "MRR" );
 
-PKK = new Array("Central", "Piqua", "Kansas Knights", "Piqua Kansas Knights (PKK)", "2025", "80", "46", "34", ".575", ".585", ".564" );
-MEN = new Array("Central", "Menendez", "Explorers", "Menendez Explorers (MEN)", "2025", "76", "32", "44", ".421", ".588", ".286" );
-LAC = new Array("Central", "LaCrosse", "Loggers", "LaCrosse Loggers (LAC)", "2025", "77", "39", "38", ".506", ".469", ".533" );
-MRR = new Array("Central", "Mississippi", "River Rats", "Mississippi River Rats (MRR)", "2025", "71", "34", "37", ".479", ".575", ".355" );
+PKK = new Array("Central", "Piqua", "Kansas Knights", "Piqua Kansas Knights (PKK)", "2025", "86", "50", "36", ".581", ".591", ".571" );
+MEN = new Array("Central", "Menendez", "Explorers", "Menendez Explorers (MEN)", "2025", "86", "37", "49", ".430", ".537", ".333" );
+LAC = new Array("Central", "LaCrosse", "Loggers", "LaCrosse Loggers (LAC)", "2025", "86", "41", "45", ".477", ".415", ".533" );
+MRR = new Array("Central", "Mississippi", "River Rats", "Mississippi River Rats (MRR)", "2025", "86", "40", "46", ".465", ".568", ".357" );
 ALWest = new Array( "LAN", "BER", "LAW", "BAK" );
 
-LAN = new Array("West", "Lancaster", "Barnstormers", "Lancaster Barnstormers (LAN)", "2025", "82", "50", "32", ".610", ".476", ".750" );
-BER = new Array("West", "Berkshire", "Mountaineers", "Berkshire Mountaineers (BER)", "2025", "64", "40", "24", ".625", ".600", ".655" );
+LAN = new Array("West", "Lancaster", "Barnstormers", "Lancaster Barnstormers (LAN)", "2025", "85", "52", "33", ".612", ".489", ".750" );
+BER = new Array("West", "Berkshire", "Mountaineers", "Berkshire Mountaineers (BER)", "2025", "85", "53", "32", ".624", ".524", ".721" );
 LAW = new Array("West", "Lawrence", "Jayhawkers", "Lawrence Jayhawkers (LAW)", "2025", "85", "38", "47", ".447", ".500", ".378" );
-BAK = new Array("West", "Bakersfield", "Scorpions", "Bakersfield Scorpions (BAK)", "2025", "72", "25", "47", ".347", ".281", ".400" );
+BAK = new Array("West", "Bakersfield", "Scorpions", "Bakersfield Scorpions (BAK)", "2025", "85", "33", "52", ".388", ".378", ".400" );
 NLEast = new Array( "MOT", "GRE", "MIL", "ARB" );
 
 MOT = new Array("East", "Motor City", "Devils", "Motor City Devils (MOT)", "2025", "88", "59", "29", ".670", ".564", ".755" );
-GRE = new Array("East", "Green Bay", "Blast", "Green Bay Blast (GRE)", "2025", "72", "37", "35", ".514", ".500", ".533" );
-MIL = new Array("East", "Mill City", "Blue", "Mill City Blue (MIL)", "2025", "82", "30", "52", ".366", ".394", ".347" );
-ARB = new Array("East", "Arboga", "Crickets", "Arboga Crickets (ARB)", "2025", "69", "27", "42", ".391", ".333", ".467" );
+GRE = new Array("East", "Green Bay", "Blast", "Green Bay Blast (GRE)", "2025", "88", "45", "43", ".511", ".500", ".522" );
+MIL = new Array("East", "Mill City", "Blue", "Mill City Blue (MIL)", "2025", "88", "31", "57", ".352", ".359", ".347" );
+ARB = new Array("East", "Arboga", "Crickets", "Arboga Crickets (ARB)", "2025", "88", "34", "54", ".386", ".357", ".413" );
 NLCentral = new Array( "ABD", "MAD", "MID", "DAK" );
 
-ABD = new Array("Central", "Allentown", "Bulldogs", "Allentown Bulldogs (ABD)", "2025", "80", "46", "34", ".575", ".535", ".622" );
-MAD = new Array("Central", "Mad City", "Worthogs", "Mad City Worthogs (MAD)", "2025", "80", "34", "46", ".425", ".395", ".452" );
-MID = new Array("Central", "Middlesex", "Monarchs", "Middlesex Monarchs (MID)", "2025", "79", "41", "38", ".519", ".550", ".487" );
-DAK = new Array("Central", "Dakota", "Badlanders", "Dakota Badlanders (DAK)", "2025", "78", "40", "38", ".513", ".486", ".537" );
+ABD = new Array("Central", "Allentown", "Bulldogs", "Allentown Bulldogs (ABD)", "2025", "87", "48", "39", ".552", ".532", ".575" );
+MAD = new Array("Central", "Mad City", "Worthogs", "Mad City Worthogs (MAD)", "2025", "86", "38", "48", ".442", ".432", ".452" );
+MID = new Array("Central", "Middlesex", "Monarchs", "Middlesex Monarchs (MID)", "2025", "86", "47", "39", ".547", ".596", ".487" );
+DAK = new Array("Central", "Dakota", "Badlanders", "Dakota Badlanders (DAK)", "2025", "86", "44", "42", ".512", ".500", ".524" );
 NLWest = new Array( "SCR", "SHE", "SEA", "ALI" );
 
-SCR = new Array("West", "Scranton", "Miners", "Scranton Miners (SCR)", "2025", "76", "33", "43", ".434", ".472", ".400" );
-SHE = new Array("West", "Sheldon", "Orabs", "Sheldon Orabs (SHE)", "2025", "69", "33", "36", ".478", ".541", ".406" );
-SEA = new Array("West", "Seattle", "Pilots", "Seattle Pilots (SEA)", "2025", "82", "45", "37", ".549", ".487", ".605" );
-ALI = new Array("West", "Alice Springs", "Red Backs", "Alice Springs Red Backs (ALI)", "2025", "75", "42", "33", ".560", ".571", ".550" );
+SCR = new Array("West", "Scranton", "Miners", "Scranton Miners (SCR)", "2025", "85", "36", "49", ".424", ".444", ".400" );
+SHE = new Array("West", "Sheldon", "Orabs", "Sheldon Orabs (SHE)", "2025", "86", "39", "47", ".453", ".500", ".413" );
+SEA = new Array("West", "Seattle", "Pilots", "Seattle Pilots (SEA)", "2025", "85", "46", "39", ".541", ".476", ".605" );
+ALI = new Array("West", "Alice Springs", "Red Backs", "Alice Springs Red Backs (ALI)", "2025", "85", "51", "34", ".600", ".619", ".581" );

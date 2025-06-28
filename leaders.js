@@ -1,206 +1,206 @@
-leaderName0 = new Array( "A.Judge", "J.Bride", "J.McCarthy", "C.Yelich", "V.Guerrero Jr", "B.Witt Jr", "J.Sanchez", "C.Correa", "M.Machado", "J.Duran" );
-leaderTeam0 = new Array( "MID", "BER", "MRR", "MOH", "LAN", "LAC", "WAR", "BER", "MID", "BAK" );
-leaderData0 = new Array( ".342", ".341", ".336", ".331", ".326", ".318", ".311", ".306", ".306", ".306" );
+leaderName0 = new Array( "A.Judge", "C.Yelich", "V.Guerrero Jr", "J.McCarthy", "B.Witt Jr", "J.Sanchez", "B.Rooker", "J.Merrill", "T.Turner", "M.Machado" );
+leaderTeam0 = new Array( "MID", "MOH", "LAN", "MRR", "LAC", "WAR", "BOL", "PKK", "MOT", "MID" );
+leaderData0 = new Array( ".346", ".335", ".328", ".312", ".310", ".303", ".303", ".300", ".297", ".297" );
 
-leaderName1 = new Array( "C.Carroll", "M.Olson", "A.Bregman", "V.Guerrero Jr", "S.Ohtani", "Z.Gelof", "F.Lindor", "C.Bellinger", "E.Tovar", "M.Ozuna" );
-leaderTeam1 = new Array( "MOT", "MOT", "HBW", "LAN", "LAW", "BOL", "MAD", "MOT", "MEN", "MID" );
-leaderData1 = new Array( "340", "330", "322", "322", "320", "318", "316", "314", "314", "314" );
+leaderName1 = new Array( "A.Bregman", "R.Greene", "E.Tovar", "A.Gimenez", "P.Goldschmidt", "C.Walker", "O.Cruz", "M.Ozuna", "D.Swanson", "Z.Gelof" );
+leaderTeam1 = new Array( "HBW", "MOH", "MEN", "MRR", "MOH", "GRE", "ARB", "MID", "GRE", "BOL" );
+leaderData1 = new Array( "361", "356", "356", "350", "348", "347", "346", "344", "341", "341" );
 
-leaderName2 = new Array( "A.Judge", "B.Rooker", "S.Ohtani", "B.Witt Jr", "M.Ozuna", "V.Guerrero Jr", "E.De La Cruz", "J.Soto", "K.Schwarber", "J.Merrill" );
-leaderTeam2 = new Array( "MID", "BOL", "LAW", "LAC", "MID", "LAN", "SEA", "BAK", "ABD", "PKK" );
-leaderData2 = new Array( "77", "71", "62", "58", "56", "55", "55", "55", "54", "51" );
+leaderName2 = new Array( "A.Judge", "B.Rooker", "J.Soto", "R.Greene", "S.Ohtani", "E.De La Cruz", "B.Witt Jr", "J.Ramirez", "K.Schwarber", "K.Marte" );
+leaderTeam2 = new Array( "MID", "BOL", "BAK", "MOH", "LAW", "SEA", "LAC", "SCR", "ABD", "SHE" );
+leaderData2 = new Array( "80", "75", "63", "62", "62", "61", "60", "59", "58", "58" );
 
-leaderName3 = new Array( "V.Guerrero Jr", "B.Witt Jr", "B.Rooker", "A.Judge", "M.Machado", "T.Turner", "M.Ozuna", "J.Ramirez", "F.Freeman", "A.Bregman" );
-leaderTeam3 = new Array( "LAN", "LAC", "BOL", "MID", "MID", "MOT", "MID", "SCR", "LAN", "HBW" );
-leaderData3 = new Array( "105", "96", "95", "95", "94", "91", "89", "87", "86", "85" );
+leaderName3 = new Array( "V.Guerrero Jr", "B.Witt Jr", "A.Judge", "B.Rooker", "M.Machado", "M.Ozuna", "A.Gimenez", "J.Ramirez", "A.Bregman", "C.Yelich" );
+leaderTeam3 = new Array( "LAN", "LAC", "MID", "BOL", "MID", "MID", "MRR", "SCR", "HBW", "MOH" );
+leaderData3 = new Array( "109", "104", "104", "101", "99", "98", "98", "97", "95", "94" );
 
-leaderName4 = new Array( "M.Olson", "B.Harper", "D.Swanson", "A.Judge", "G.Henderson", "B.Witt Jr", "A.Vaughn", "B.Buxton", "N.Hoerner", "V.Guerrero Jr" );
-leaderTeam4 = new Array( "MOT", "ALI", "GRE", "MID", "LAN", "LAC", "MRR", "MOT", "ABD", "LAN" );
-leaderData4 = new Array( "26", "26", "24", "23", "22", "22", "22", "21", "21", "21" );
+leaderName4 = new Array( "B.Harper", "A.Judge", "M.Olson", "D.Swanson", "A.Vaughn", "B.Witt Jr", "C.Abrams", "C.Walker", "N.Hoerner", "A.Bohm" );
+leaderTeam4 = new Array( "ALI", "MID", "MOT", "GRE", "MRR", "LAC", "HBW", "GRE", "ABD", "ABD" );
+leaderData4 = new Array( "32", "27", "26", "26", "26", "25", "22", "22", "22", "22" );
 
-leaderName5 = new Array( "I.Kiner-Falefa", "A.Volpe", "E.De La Cruz", "R.Greene", "J.Duran", "J.Miranda", "K.Carpenter", "S.Kwan", "M.Garcia", "J.Merrill" );
-leaderTeam5 = new Array( "LAC", "PKK", "SEA", "MOH", "BAK", "MIL", "MEN", "MIL", "PKK", "PKK" );
-leaderData5 = new Array( "7", "6", "6", "6", "6", "5", "5", "4", "4", "4" );
+leaderName5 = new Array( "I.Kiner-Falefa", "A.Volpe", "E.De La Cruz", "R.Greene", "J.Duran", "J.Miranda", "J.Merrill", "K.Carpenter", "W.Langford", "S.Kwan" );
+leaderTeam5 = new Array( "LAC", "PKK", "SEA", "MOH", "BAK", "MIL", "PKK", "MEN", "HBW", "MIL" );
+leaderData5 = new Array( "8", "6", "6", "6", "6", "5", "5", "5", "4", "4" );
 
-leaderName6 = new Array( "B.Rooker", "A.Judge", "Y.Alvarez", "B.Witt Jr", "R.Devers", "K.Marte", "S.Ohtani", "K.Schwarber", "F.Freeman", "J.Ramirez" );
-leaderTeam6 = new Array( "BOL", "MID", "ABD", "LAC", "DAK", "SHE", "LAW", "ABD", "LAN", "SCR" );
-leaderData6 = new Array( "35", "30", "23", "23", "23", "22", "22", "21", "21", "21" );
+leaderName6 = new Array( "B.Rooker", "A.Judge", "K.Marte", "S.Langeliers", "Y.Alvarez", "J.Ramirez", "B.Witt Jr", "A.Santander", "R.Devers", "K.Schwarber" );
+leaderTeam6 = new Array( "BOL", "MID", "SHE", "GRE", "ABD", "SCR", "LAC", "MRR", "DAK", "ABD" );
+leaderData6 = new Array( "38", "30", "25", "24", "24", "24", "24", "24", "24", "22" );
 
-leaderName7 = new Array( "B.Rooker", "A.Judge", "J.Ramirez", "M.Ozuna", "R.Devers", "A.Santander", "Y.Alvarez", "F.Freeman", "J.Naylor", "B.Witt Jr" );
-leaderTeam7 = new Array( "BOL", "MID", "SCR", "MID", "DAK", "MRR", "ABD", "LAN", "LAC", "LAC" );
-leaderData7 = new Array( "69", "69", "60", "60", "59", "56", "54", "53", "52", "51" );
+leaderName7 = new Array( "B.Rooker", "A.Judge", "A.Santander", "J.Ramirez", "M.Ozuna", "R.Devers", "S.Perez", "K.Marte", "Y.Alvarez", "T.Hernandez" );
+leaderTeam7 = new Array( "BOL", "MID", "MRR", "SCR", "MID", "DAK", "BER", "SHE", "ABD", "SEA" );
+leaderData7 = new Array( "73", "69", "67", "66", "66", "64", "61", "59", "55", "55" );
 
-leaderName8 = new Array( "A.Judge", "J.Soto", "K.Schwarber", "S.Ohtani", "N.Lowe", "G.Henderson", "R.Arozarena", "B.Rooker", "W.Contreras", "S.Steer" );
-leaderTeam8 = new Array( "MID", "BAK", "ABD", "LAW", "SEA", "LAN", "DAK", "BOL", "ABD", "LAW" );
-leaderData8 = new Array( "71", "62", "53", "52", "51", "50", "49", "48", "47", "47" );
+leaderName8 = new Array( "A.Judge", "J.Soto", "K.Schwarber", "G.Henderson", "N.Lowe", "B.Rooker", "S.Ohtani", "R.Arozarena", "W.Contreras", "V.Guerrero Jr" );
+leaderTeam8 = new Array( "MID", "BAK", "ABD", "LAN", "SEA", "BOL", "LAW", "DAK", "ABD", "LAN" );
+leaderData8 = new Array( "75", "72", "57", "52", "52", "52", "52", "50", "49", "47" );
 
-leaderName9 = new Array( "S.Ohtani", "J.Duran", "H.Ramos", "V.Guerrero Jr", "A.Kirk", "J.Ramirez", "I.Kiner-Falefa", "A.Vaughn", "J.Merrill", "B.Witt Jr" );
-leaderTeam9 = new Array( "LAW", "BAK", "ABD", "LAN", "SCR", "SCR", "LAC", "MRR", "PKK", "LAC" );
-leaderData9 = new Array( "13", "9", "8", "8", "8", "8", "8", "8", "7", "7" );
+leaderName9 = new Array( "S.Ohtani", "A.Vaughn", "A.Gimenez", "V.Guerrero Jr", "J.Ramirez", "J.Duran", "H.Ramos", "A.Kirk", "I.Kiner-Falefa", "J.Merrill" );
+leaderTeam9 = new Array( "LAW", "MRR", "MRR", "LAN", "SCR", "BAK", "ABD", "SCR", "LAC", "PKK" );
+leaderData9 = new Array( "13", "12", "10", "9", "9", "9", "8", "8", "8", "7" );
 
-leaderName10 = new Array( "Z.Gelof", "T.Hernandez", "R.McMahon", "O.Cruz", "M.Olson", "C.Raleigh", "E.De La Cruz", "M.Ozuna", "R.Arozarena", "K.Schwarber" );
-leaderTeam10 = new Array( "BOL", "SEA", "MOT", "ARB", "MOT", "MOT", "SEA", "MID", "DAK", "ABD" );
-leaderData10 = new Array( "114", "112", "105", "105", "104", "103", "100", "97", "95", "94" );
+leaderName10 = new Array( "O.Cruz", "Z.Gelof", "T.Hernandez", "R.Greene", "M.Ozuna", "W.Castro", "R.McMahon", "M.Vientos", "M.Olson", "K.Schwarber" );
+leaderTeam10 = new Array( "ARB", "BOL", "SEA", "MOH", "MID", "MRR", "MOT", "BAK", "MOT", "ABD" );
+leaderData10 = new Array( "133", "128", "115", "113", "106", "106", "105", "105", "104", "104" );
 
-leaderName11 = new Array( "R.Jeffers", "B.Buxton", "J.Smith", "W.Contreras", "W.Castro", "L.Raley", "R.Arozarena", "F.Lindor", "T.France", "J.Young" );
-leaderTeam11 = new Array( "MAD", "MOT", "ALI", "MOH", "MRR", "DAK", "DAK", "MAD", "DAK", "GRE" );
-leaderData11 = new Array( "13", "11", "11", "11", "11", "11", "11", "10", "10", "9" );
+leaderName11 = new Array( "J.Smith", "R.Jeffers", "W.Contreras", "W.Castro", "R.Arozarena", "T.France", "B.Buxton", "F.Lindor", "J.Profar", "S.Horwitz" );
+leaderTeam11 = new Array( "ALI", "MAD", "MOH", "MRR", "DAK", "DAK", "MOT", "MAD", "ALI", "MOH" );
+leaderData11 = new Array( "14", "13", "13", "12", "12", "12", "11", "11", "11", "11" );
 
-leaderName12 = new Array( "J.McCarthy", "E.Tovar", "J.Young", "J.Meyers", "J.Crawford", "C.Yelich", "B.Turang", "A.Garcia", "H.Kim", "J.Profar" );
-leaderTeam12 = new Array( "MRR", "MEN", "GRE", "MAD", "ALI", "MOH", "MEN", "GRE", "SHE", "ALI" );
-leaderData12 = new Array( "8", "6", "5", "5", "5", "5", "5", "4", "4", "4" );
+leaderName12 = new Array( "J.McCarthy", "H.Kim", "J.Profar", "E.Tovar", "B.Turang", "J.Young", "J.Meyers", "J.Crawford", "C.Yelich", "A.Garcia" );
+leaderTeam12 = new Array( "MRR", "SHE", "ALI", "MEN", "MEN", "GRE", "MAD", "ALI", "MOH", "GRE" );
+leaderData12 = new Array( "11", "7", "7", "6", "6", "5", "5", "5", "5", "4" );
 
-leaderName13 = new Array( "E.De La Cruz", "S.Ohtani", "C.Carroll", "V.Robles", "J.McCarthy", "D.Blanco", "B.Turang", "J.Chisholm", "J.Ramirez", "X.Edwards" );
-leaderTeam13 = new Array( "SEA", "LAW", "MOT", "SEA", "MRR", "BER", "MEN", "SCR", "SCR", "DAK" );
-leaderData13 = new Array( "30", "30", "25", "24", "21", "21", "20", "19", "16", "15" );
+leaderName13 = new Array( "E.De La Cruz", "D.Blanco", "S.Ohtani", "B.Turang", "C.Carroll", "V.Robles", "J.McCarthy", "J.Chisholm", "A.Gimenez", "X.Edwards" );
+leaderTeam13 = new Array( "SEA", "BER", "LAW", "MEN", "MOT", "SEA", "MRR", "SCR", "MRR", "DAK" );
+leaderData13 = new Array( "33", "33", "30", "29", "25", "24", "21", "20", "19", "18" );
 
-leaderName14 = new Array( "F.Lindor", "J.Rojas", "B.Doyle", "M.Garcia", "J.Fraley", "C.Bellinger", "D.Moore", "C.Carroll", "J.Ramirez", "J.Loperfido" );
-leaderTeam14 = new Array( "MAD", "WAR", "MEN", "PKK", "MAD", "MOT", "ABD", "MOT", "SCR", "BAK" );
-leaderData14 = new Array( "1.00", "1.00", "1.00", ".92", ".92", ".91", ".90", ".89", ".89", ".89" );
+leaderName14 = new Array( "F.Lindor", "B.Doyle", "J.Rojas", "C.Bellinger", "J.Ramirez", "C.Carroll", "E.De La Cruz", "J.McCarthy", "D.Blanco", "M.Garcia" );
+leaderTeam14 = new Array( "MAD", "MEN", "WAR", "MOT", "SCR", "MOT", "SEA", "MRR", "BER", "PKK" );
+leaderData14 = new Array( "1.00", "1.00", ".92", ".91", ".89", ".89", ".89", ".88", ".87", ".87" );
 
-leaderName15 = new Array( "G.Stanton", "R.Mountcastle", "J.Miranda", "M.Machado", "V.Guerrero Jr", "M.Conforto", "C.Abrams", "M.Yoshida", "A.Bohm", "M.Vierling" );
-leaderTeam15 = new Array( "WAR", "MID", "MIL", "MID", "LAN", "MID", "HBW", "MIL", "ABD", "LAC" );
-leaderData15 = new Array( "13", "13", "12", "12", "11", "11", "10", "10", "10", "10" );
+leaderName15 = new Array( "G.Stanton", "R.Mountcastle", "J.Miranda", "M.Chapman", "M.Machado", "J.Soler", "C.Abrams", "Y.Alvarez", "A.Bohm", "V.Guerrero Jr" );
+leaderTeam15 = new Array( "WAR", "MID", "MIL", "MOH", "MID", "DAK", "HBW", "ABD", "ABD", "LAN" );
+leaderData15 = new Array( "14", "13", "12", "12", "12", "12", "11", "11", "11", "11" );
 
-leaderName16 = new Array( "J.McCarthy", "A.Garcia", "J.Young", "J.Polanco", "F.Lindor", "M.Vientos", "M.Winn", "B.Buxton", "F.Freeman", "K.Marte" );
-leaderTeam16 = new Array( "MRR", "GRE", "GRE", "LAN", "MAD", "BAK", "BAK", "MOT", "LAN", "SHE" );
-leaderData16 = new Array( "13", "9", "8", "8", "7", "7", "6", "5", "5", "5" );
+leaderName16 = new Array( "J.McCarthy", "B.Turang", "J.Polanco", "F.Lindor", "M.Vientos", "E.Hernandez", "M.Winn", "B.Buxton", "F.Freeman", "R.Grichuk" );
+leaderTeam16 = new Array( "MRR", "MEN", "LAN", "MAD", "BAK", "ALI", "BAK", "MOT", "LAN", "ARB" );
+leaderData16 = new Array( "13", "9", "8", "7", "7", "6", "6", "5", "5", "5" );
 
-leaderName17 = new Array( "L.Garcia", "R.Refsnyder", "G.Mitchell", "A.Del Castillo", "Y.Grandal", "S.Torkelson", "D.Hamilton", "G.Perdomo", "R.Mountcastle", "T.Edman" );
-leaderTeam17 = new Array( "SEA", "GRE", "SEA", "LAW", "SHE", "HBW", "GRE", "WAR", "MID", "MAD" );
-leaderData17 = new Array( ".368", ".333", ".333", ".333", ".308", ".300", ".300", ".300", ".300", ".286" );
+leaderName17 = new Array( "L.Garcia", "R.Refsnyder", "G.Mitchell", "A.Del Castillo", "T.Edman", "Y.Grandal", "D.Hamilton", "B.Perkins", "K.McCann", "M.Taylor" );
+leaderTeam17 = new Array( "SEA", "GRE", "SEA", "LAW", "MAD", "SHE", "GRE", "SEA", "HBW", "SHE" );
+leaderData17 = new Array( ".368", ".333", ".333", ".333", ".310", ".308", ".273", ".267", ".231", ".231" );
 
-leaderName18 = new Array( "A.Judge", "B.Rooker", "J.Duran", "B.Witt Jr", "R.Devers", "J.Ramirez", "J.Soto", "J.Bride", "Y.Alvarez", "S.Perez" );
-leaderTeam18 = new Array( "MID", "BOL", "BAK", "LAC", "DAK", "SCR", "BAK", "BER", "ABD", "BER" );
-leaderData18 = new Array( ".763", ".677", ".636", ".632", ".599", ".585", ".576", ".574", ".566", ".554" );
+leaderName18 = new Array( "A.Judge", "B.Rooker", "B.Witt Jr", "J.Ramirez", "R.Devers", "J.Duran", "Y.Alvarez", "F.Freeman", "C.Yelich", "V.Guerrero Jr" );
+leaderTeam18 = new Array( "MID", "BOL", "LAC", "SCR", "DAK", "BAK", "ABD", "LAN", "MOH", "LAN" );
+leaderData18 = new Array( ".748", ".685", ".610", ".591", ".580", ".573", ".544", ".542", ".541", ".539" );
 
-leaderName19 = new Array( "A.Judge", "J.Soto", "J.Bride", "J.McCarthy", "V.Guerrero Jr", "C.Yelich", "J.Duran", "W.Contreras", "N.Lowe", "B.Rooker" );
-leaderTeam19 = new Array( "MID", "BAK", "BER", "MRR", "LAN", "MOH", "BAK", "MOH", "SEA", "BOL" );
-leaderData19 = new Array( ".479", ".430", ".420", ".412", ".408", ".406", ".402", ".397", ".396", ".395" );
+leaderName19 = new Array( "A.Judge", "J.Soto", "V.Guerrero Jr", "C.Yelich", "B.Rooker", "J.Duran", "J.McCarthy", "N.Lowe", "W.Contreras", "F.Freeman" );
+leaderTeam19 = new Array( "MID", "BAK", "LAN", "MOH", "BOL", "BAK", "MRR", "SEA", "MOH", "LAN" );
+leaderData19 = new Array( ".482", ".415", ".414", ".402", ".396", ".391", ".391", ".388", ".383", ".373" );
 
-leaderName20 = new Array( "A.Judge", "B.Rooker", "J.Duran", "J.Soto", "J.Bride", "C.Yelich", "J.McCarthy", "B.Witt Jr", "V.Guerrero Jr", "R.Devers" );
-leaderTeam20 = new Array( "MID", "BOL", "BAK", "BAK", "BER", "MOH", "MRR", "LAC", "LAN", "DAK" );
-leaderData20 = new Array( "15.0", "10.5", " 9.9", " 9.6", " 9.6", " 8.5", " 8.4", " 8.4", " 8.2", " 7.9" );
+leaderName20 = new Array( "A.Judge", "B.Rooker", "C.Yelich", "J.Soto", "V.Guerrero Jr", "J.Duran", "J.Ramirez", "B.Witt Jr", "F.Freeman", "R.Devers" );
+leaderTeam20 = new Array( "MID", "BOL", "MOH", "BAK", "LAN", "BAK", "SCR", "LAC", "LAN", "DAK" );
+leaderData20 = new Array( "14.9", "10.7", " 8.6", " 8.5", " 8.4", " 8.4", " 7.8", " 7.8", " 7.4", " 7.4" );
 
-leaderName21 = new Array( "A.Judge", "B.Rooker", "J.Duran", "J.Soto", "J.Bride", "B.Witt Jr", "J.McCarthy", "J.Ramirez", "C.Yelich", "R.Devers" );
-leaderTeam21 = new Array( "MID", "BOL", "BAK", "BAK", "BER", "LAC", "MRR", "SCR", "MOH", "DAK" );
-leaderData21 = new Array( "1.532", "1.212", "1.182", "1.144", "1.042", "1.041", "1.030", "1.005", ".994", ".990" );
+leaderName21 = new Array( "A.Judge", "B.Rooker", "J.Duran", "J.Soto", "J.Ramirez", "B.Witt Jr", "C.Yelich", "V.Guerrero Jr", "E.De La Cruz", "R.Devers" );
+leaderTeam21 = new Array( "MID", "BOL", "BAK", "BAK", "SCR", "LAC", "MOH", "LAN", "SEA", "DAK" );
+leaderData21 = new Array( "1.517", "1.225", "1.082", "1.062", "1.008", "1.000", ".995", ".983", ".983", ".947" );
 
-leaderName22 = new Array( "B.Rooker", "A.Judge", "B.Witt Jr", "V.Guerrero Jr", "J.Ramirez", "M.Ozuna", "R.Devers", "F.Freeman", "M.Machado", "Y.Alvarez" );
-leaderTeam22 = new Array( "BOL", "MID", "LAC", "LAN", "SCR", "MID", "DAK", "LAN", "MID", "ABD" );
-leaderData22 = new Array( "212", "212", "191", "174", "172", "169", "167", "166", "164", "159" );
+leaderName22 = new Array( "B.Rooker", "A.Judge", "B.Witt Jr", "J.Ramirez", "M.Ozuna", "V.Guerrero Jr", "R.Devers", "K.Marte", "A.Santander", "M.Machado" );
+leaderTeam22 = new Array( "BOL", "MID", "LAC", "SCR", "MID", "LAN", "DAK", "SHE", "MRR", "MID" );
+leaderData22 = new Array( "228", "225", "205", "195", "182", "179", "178", "177", "173", "170" );
 
-leaderName23 = new Array( "K.Marte", "J.Ramirez", "J.Smith", "M.Ozuna", "S.Perez", "D.Swanson", "J.Polanco", "Z.Neto", "H.Ramos", "J.McCarthy" );
-leaderTeam23 = new Array( "SHE", "SCR", "ALI", "MID", "BER", "GRE", "LAN", "MOT", "ABD", "MRR" );
-leaderData23 = new Array( ".446", ".427", ".423", ".391", ".386", ".379", ".371", ".370", ".368", ".365" );
+leaderName23 = new Array( "J.Smith", "J.Ramirez", "K.Marte", "L.Rengifo", "M.Ozuna", "S.Perez", "J.Polanco", "Z.Neto", "R.Refsnyder", "D.Swanson" );
+leaderTeam23 = new Array( "ALI", "SCR", "SHE", "BER", "MID", "BER", "LAN", "MOT", "GRE", "GRE" );
+leaderData23 = new Array( ".426", ".425", ".425", ".387", ".385", ".378", ".371", ".370", ".370", ".363" );
 
-leaderName24 = new Array( "K.Marte", "B.Rooker", "J.Soto", "J.Ramirez", "A.Judge", "J.Adell", "T.D'Arnaud", "V.Guerrero Jr", "D.Varsho", "J.Profar" );
-leaderTeam24 = new Array( "SHE", "BOL", "BAK", "SCR", "MID", "LAW", "MIL", "LAN", "LAN", "ALI" );
-leaderData24 = new Array( "16", "11", "9", "8", "8", "8", "7", "7", "7", "7" );
+leaderName24 = new Array( "K.Marte", "B.Rooker", "S.Perez", "J.Soto", "J.Ramirez", "D.Hill", "A.Judge", "J.Adell", "A.Duvall", "D.Swanson" );
+leaderTeam24 = new Array( "SHE", "BOL", "BER", "BAK", "SCR", "MOH", "MID", "LAW", "HBW", "GRE" );
+leaderData24 = new Array( "17", "11", "9", "9", "8", "8", "8", "8", "7", "7" );
 
-leaderName25 = new Array( "M.Rojas", "X.Edwards", "J.Bride", "C.Yelich", "V.Guerrero Jr", "A.Judge", "J.Sanchez", "J.McCarthy", "B.Witt Jr", "O.Lopez" );
-leaderTeam25 = new Array( "BER", "DAK", "BER", "MOH", "LAN", "MID", "WAR", "MRR", "LAC", "WAR" );
-leaderData25 = new Array( ".406", ".384", ".350", ".345", ".341", ".341", ".340", ".326", ".325", ".321" );
+leaderName25 = new Array( "M.Rojas", "X.Edwards", "J.Bride", "C.Yelich", "A.Judge", "V.Guerrero Jr", "J.Sanchez", "J.McCarthy", "B.Witt Jr", "J.Merrill" );
+leaderTeam25 = new Array( "BER", "DAK", "BER", "MOH", "MID", "LAN", "WAR", "MRR", "LAC", "PKK" );
+leaderData25 = new Array( ".374", ".364", ".364", ".347", ".347", ".344", ".329", ".321", ".314", ".310" );
 
-leaderName26 = new Array( "B.Rooker", "A.Judge", "R.Devers", "Y.Alvarez", "M.Ozuna", "K.Schwarber", "F.Freeman", "B.Witt Jr", "E.De La Cruz", "E.Tovar" );
-leaderTeam26 = new Array( "BOL", "MID", "DAK", "ABD", "MID", "ABD", "LAN", "LAC", "SEA", "MEN" );
-leaderData26 = new Array( "24", "22", "22", "18", "18", "17", "17", "16", "15", "15" );
+leaderName26 = new Array( "B.Rooker", "R.Devers", "A.Judge", "Y.Alvarez", "M.Ozuna", "A.Santander", "S.Langeliers", "K.Schwarber", "F.Freeman", "E.De La Cruz" );
+leaderTeam26 = new Array( "BOL", "DAK", "MID", "ABD", "MID", "MRR", "GRE", "ABD", "LAN", "SEA" );
+leaderData26 = new Array( "27", "23", "22", "19", "19", "19", "18", "18", "17", "17" );
 
-leaderName27 = new Array( "S.Imanaga", "M.King", "Z.Wheeler", "R.Blanco", "B.Miller", "P.Skenes", "T.Houck", "J.Berrios", "H.Brown", "R.Suarez" );
-leaderTeam27 = new Array( "ALI", "HBW", "MOT", "MOT", "ABD", "SEA", "HBW", "HBW", "MOT", "GRE" );
-leaderData27 = new Array( "13", "9", "9", "9", "9", "9", "8", "8", "8", "8" );
+leaderName27 = new Array( "S.Imanaga", "M.King", "B.Francis", "T.Houck", "B.Miller", "C.Sale", "Z.Wheeler", "R.Blanco", "R.Suarez", "P.Skenes" );
+leaderTeam27 = new Array( "ALI", "HBW", "BER", "HBW", "ABD", "BER", "MOT", "MOT", "GRE", "SEA" );
+leaderData27 = new Array( "13", "11", "11", "10", "10", "10", "9", "9", "9", "9" );
 
-leaderName28 = new Array( "A.Gomber", "M.Spence", "L.Castillo", "J.Flaherty", "J.Musgrove", "M.Gore", "D.Kremer", "K.Crawford", "L.Severino", "S.Woods-Richard" );
-leaderTeam28 = new Array( "MIL", "MAD", "WAR", "BOL", "DAK", "ALI", "ARB", "MEN", "MID", "DAK" );
-leaderData28 = new Array( "10", "10", "10", "9", "9", "8", "8", "8", "8", "8" );
+leaderName28 = new Array( "L.Castillo", "A.Gomber", "M.Spence", "J.Flaherty", "S.Woods-Richard", "M.Gore", "D.Kremer", "G.Stone", "K.Crawford", "M.Parker" );
+leaderTeam28 = new Array( "WAR", "MIL", "MAD", "BOL", "DAK", "ALI", "ARB", "ARB", "MEN", "LAC" );
+leaderData28 = new Array( "12", "10", "10", "10", "10", "9", "9", "9", "9", "9" );
 
-leaderName29 = new Array( "S.Imanaga", "C.Sale", "G.Rodriguez", "S.Lugo", "Z.Wheeler", "R.Blanco", "P.Skenes", "T.Bibee", "M.King", "Y.Darvish" );
-leaderTeam29 = new Array( "ALI", "BER", "ALI", "BER", "MOT", "MOT", "SEA", "MOT", "HBW", "SCR" );
-leaderData29 = new Array( "1.000", "1.000", ".857", ".857", ".818", ".818", ".818", ".778", ".750", ".750" );
+leaderName29 = new Array( "S.Imanaga", "G.Rodriguez", "C.Sale", "Z.Wheeler", "R.Blanco", "P.Skenes", "T.Holton", "M.King", "B.Francis", "T.Bibee" );
+leaderTeam29 = new Array( "ALI", "ALI", "BER", "MOT", "MOT", "SEA", "MOH", "HBW", "BER", "MOT" );
+leaderData29 = new Array( "1.000", ".875", ".833", ".818", ".818", ".818", ".800", ".786", ".786", ".778" );
 
-leaderName30 = new Array( "S.Imanaga", "C.Sale", "S.Lugo", "T.Houck", "R.Blanco", "T.Skubal", "M.King", "P.Skenes", "C.Ragans", "Z.Wheeler" );
-leaderTeam30 = new Array( "ALI", "BER", "BER", "HBW", "MOT", "ALI", "HBW", "SEA", "LAW", "MOT" );
-leaderData30 = new Array( " 1.29", " 1.90", " 2.33", " 2.39", " 2.51", " 2.54", " 2.54", " 2.57", " 2.62", " 2.64" );
+leaderName30 = new Array( "S.Imanaga", "C.Sale", "T.Houck", "M.King", "J.Steele", "R.Blanco", "T.Skubal", "P.Skenes", "C.Ragans", "Z.Wheeler" );
+leaderTeam30 = new Array( "ALI", "BER", "HBW", "HBW", "MRR", "MOT", "ALI", "SEA", "LAW", "MOT" );
+leaderData30 = new Array( " 1.29", " 2.18", " 2.29", " 2.46", " 2.48", " 2.51", " 2.54", " 2.57", " 2.62", " 2.64" );
 
-leaderName31 = new Array( "B.Miller", "N.Eovaldi", "Z.Wheeler", "D.Cease", "M.Keller", "J.Berrios", "F.Valdez", "J.Flaherty", "M.Wacha", "J.Ryan" );
-leaderTeam31 = new Array( "ABD", "MIL", "MOT", "MOT", "DAK", "HBW", "SCR", "BOL", "LAC", "DAK" );
-leaderData31 = new Array( "121.2", "116.0", "112.1", "111.2", "110.0", "109.2", "105.2", "105.1", "105.1", "105.0" );
+leaderName31 = new Array( "B.Miller", "S.Lugo", "N.Eovaldi", "C.Sale", "L.Webb", "J.Ryan", "S.Manaea", "M.Wacha", "T.Houck", "J.Berrios" );
+leaderTeam31 = new Array( "ABD", "BER", "MIL", "BER", "GRE", "DAK", "WAR", "LAC", "HBW", "HBW" );
+leaderData31 = new Array( "128.2", "124.1", "124.0", "123.2", "121.1", "121.0", "119.2", "119.0", "117.2", "117.2" );
 
-leaderName32 = new Array( "B.Miller", "M.Keller", "N.Eovaldi", "J.Berrios", "F.Valdez", "A.Gomber", "D.Cease", "M.Wacha", "C.Burnes", "G.Kirby" );
-leaderTeam32 = new Array( "ABD", "DAK", "MIL", "HBW", "SCR", "MIL", "MOT", "LAC", "LAW", "MAD" );
-leaderData32 = new Array( "500", "488", "481", "465", "465", "448", "447", "441", "438", "434" );
+leaderName32 = new Array( "B.Miller", "M.Keller", "N.Eovaldi", "L.Webb", "M.Wacha", "S.Manaea", "S.Lugo", "J.Berrios", "A.Nola", "M.Waldron" );
+leaderTeam32 = new Array( "ABD", "DAK", "MIL", "GRE", "LAC", "WAR", "BER", "HBW", "MOH", "LAC" );
+leaderData32 = new Array( "526", "517", "511", "508", "501", "496", "495", "494", "491", "489" );
 
-leaderName33 = new Array( "T.Rogers", "M.Tonkin", "R.Helsley", "J.Jimenez", "D.Hudson", "W.Vest", "D.Law", "P.Johnson", "K.Kelly", "A.Kittredge" );
-leaderTeam33 = new Array( "LAW", "MID", "WAR", "LAN", "LAN", "BOL", "HBW", "GRE", "LAN", "LAW" );
-leaderData33 = new Array( "47", "45", "40", "39", "38", "38", "37", "37", "37", "36" );
+leaderName33 = new Array( "M.Tonkin", "P.Johnson", "T.Rogers", "R.Helsley", "K.Kelly", "J.Jimenez", "D.Hudson", "C.Holmes", "D.Law", "C.Smith" );
+leaderTeam33 = new Array( "MID", "GRE", "LAW", "WAR", "LAN", "LAN", "LAN", "WAR", "HBW", "ALI" );
+leaderData33 = new Array( "50", "48", "47", "44", "40", "40", "40", "40", "39", "38" );
 
-leaderName34 = new Array( "C.Burnes", "A.Gomber", "B.Miller", "G.Kirby", "E.Fedde", "J.Berrios", "N.Eovaldi", "F.Valdez", "P.Skenes", "N.Cortes" );
-leaderTeam34 = new Array( "LAW", "MIL", "ABD", "MAD", "LAN", "HBW", "MIL", "SCR", "SEA", "BOL" );
-leaderData34 = new Array( "19", "18", "18", "18", "18", "17", "17", "17", "17", "17" );
+leaderName34 = new Array( "G.Kirby", "B.Miller", "C.Burnes", "J.Berrios", "L.Webb", "N.Eovaldi", "A.Gomber", "J.Irvin", "E.Fedde", "N.Cortes" );
+leaderTeam34 = new Array( "MAD", "ABD", "LAW", "HBW", "GRE", "MIL", "MIL", "ABD", "LAN", "BOL" );
+leaderData34 = new Array( "20", "19", "19", "18", "18", "18", "18", "18", "18", "18" );
 
-leaderName35 = new Array( "A.Nola", "P.Lopez", "M.Fried", "M.Wacha", "S.Lugo", "H.Brown", "D.Cease", "S.Arrighetti", "B.Ober", "G.Canning" );
-leaderTeam35 = new Array( "MOH", "MEN", "MEN", "LAC", "BER", "MOT", "MOT", "PKK", "SHE", "SEA" );
-leaderData35 = new Array( "4", "3", "2", "2", "2", "1", "1", "1", "1", "1" );
+leaderName35 = new Array( "A.Nola", "P.Lopez", "S.Lugo", "H.Greene", "M.Fried", "M.Wacha", "J.Berrios", "H.Brown", "D.Cease", "S.Arrighetti" );
+leaderTeam35 = new Array( "MOH", "MEN", "BER", "ARB", "MEN", "LAC", "HBW", "MOT", "MOT", "PKK" );
+leaderData35 = new Array( "5", "3", "3", "2", "2", "2", "1", "1", "1", "1" );
 
-leaderName36 = new Array( "L.Erceg", "R.Iglesias", "E.Uceta", "D.Law", "C.Green", "R.Walker", "M.Miller", "K.Hendricks", "T.Scott", "L.Weaver" );
-leaderTeam36 = new Array( "SEA", "MOT", "ALI", "HBW", "LAW", "GRE", "PKK", "LAC", "MID", "MOT" );
-leaderData36 = new Array( "30", "28", "28", "26", "26", "25", "25", "25", "25", "21" );
+leaderName36 = new Array( "E.Uceta", "L.Erceg", "R.Walker", "K.Hendricks", "T.Scott", "R.Iglesias", "M.Miller", "D.Law", "C.Green", "K.Jansen" );
+leaderTeam36 = new Array( "ALI", "SEA", "GRE", "LAC", "MID", "MOT", "PKK", "HBW", "LAW", "MOH" );
+leaderData36 = new Array( "33", "32", "30", "30", "30", "28", "28", "27", "26", "25" );
 
-leaderName37 = new Array( "R.Iglesias", "T.Scott", "K.Yates", "E.Uceta", "M.Miller", "C.Estevez", "L.Erceg", "J.Hoffman", "K.Jansen", "C.Green" );
-leaderTeam37 = new Array( "MOT", "MID", "SCR", "ALI", "PKK", "LAC", "SEA", "MEN", "MOH", "LAW" );
-leaderData37 = new Array( "24", "20", "18", "18", "17", "17", "16", "15", "14", "13" );
+leaderName37 = new Array( "T.Scott", "R.Iglesias", "E.Uceta", "K.Yates", "M.Miller", "K.Jansen", "C.Estevez", "R.Walker", "L.Erceg", "J.Hoffman" );
+leaderTeam37 = new Array( "MID", "MOT", "ALI", "SCR", "PKK", "MOH", "LAC", "GRE", "SEA", "MEN" );
+leaderData37 = new Array( "25", "24", "21", "20", "19", "18", "18", "16", "16", "16" );
 
-leaderName38 = new Array( "B.Treinen", "P.Hodge", "K.Yates", "J.Estrada", "R.Iglesias", "T.Scott", "K.Jansen", "C.Green", "R.Walker", "E.Uceta" );
-leaderTeam38 = new Array( "ABD", "LAN", "SCR", "ARB", "MOT", "MID", "MOH", "LAW", "GRE", "ALI" );
-leaderData38 = new Array( "1.000", "1.000", "1.000", "1.000", ".960", ".952", ".933", ".929", ".917", ".900" );
+leaderName38 = new Array( "B.Treinen", "P.Hodge", "J.Estrada", "T.Scott", "R.Iglesias", "K.Yates", "R.Walker", "C.Green", "E.Uceta", "C.Estevez" );
+leaderTeam38 = new Array( "ABD", "LAN", "ARB", "MID", "MOT", "SCR", "GRE", "LAW", "ALI", "LAC" );
+leaderData38 = new Array( "1.000", "1.000", "1.000", ".962", ".960", ".952", ".941", ".929", ".913", ".900" );
 
-leaderName39 = new Array( "R.Pepiot", "S.Lugo", "", "", "", "", "", "", "", "" );
-leaderTeam39 = new Array( "WAR", "BER", "", "", "", "", "", "", "", "" );
-leaderData39 = new Array( "1", "1", "", "", "", "", "", "", "", "" );
+leaderName39 = new Array( "S.Lugo", "R.Pepiot", "", "", "", "", "", "", "", "" );
+leaderTeam39 = new Array( "BER", "WAR", "", "", "", "", "", "", "", "" );
+leaderData39 = new Array( "2", "1", "", "", "", "", "", "", "", "" );
 
-leaderName40 = new Array( "M.Keller", "A.Gomber", "L.Webb", "F.Valdez", "G.Kirby", "M.Waldron", "C.Sanchez", "B.Pfaadt", "L.Castillo", "Y.Kikuchi" );
-leaderTeam40 = new Array( "DAK", "MIL", "GRE", "SCR", "MAD", "LAC", "MID", "PKK", "WAR", "SCR" );
-leaderData40 = new Array( "129", "117", "112", "112", "107", "107", "107", "106", "105", "103" );
+leaderName40 = new Array( "M.Keller", "L.Webb", "T.Walker", "P.Corbin", "L.Castillo", "A.Nola", "M.Waldron", "A.Gomber", "G.Kirby", "C.Sanchez" );
+leaderTeam40 = new Array( "DAK", "GRE", "BAK", "BAK", "WAR", "MOH", "LAC", "MIL", "MAD", "MID" );
+leaderData40 = new Array( "135", "126", "126", "126", "122", "118", "118", "117", "117", "113" );
 
-leaderName41 = new Array( "T.Walker", "L.Castillo", "L.Severino", "C.Sanchez", "G.Canning", "L.Gil", "L.Allen", "M.Spence", "A.Gomber", "G.Kirby" );
-leaderTeam41 = new Array( "BAK", "WAR", "MID", "MID", "SEA", "BOL", "LAW", "MAD", "MIL", "MAD" );
-leaderData41 = new Array( "81", "69", "64", "61", "60", "60", "59", "58", "56", "55" );
+leaderName41 = new Array( "T.Walker", "L.Castillo", "G.Canning", "P.Corbin", "L.Severino", "C.Mize", "L.Gil", "C.Sanchez", "G.Kirby", "B.Lively" );
+leaderTeam41 = new Array( "BAK", "WAR", "SEA", "BAK", "MID", "BAK", "BOL", "MID", "MAD", "SCR" );
+leaderData41 = new Array( "94", "82", "66", "66", "65", "64", "63", "63", "61", "61" );
 
-leaderName42 = new Array( "T.Walker", "L.Castillo", "L.Severino", "C.Sanchez", "L.Allen", "M.Spence", "L.Gil", "J.Quintana", "F.Valdez", "G.Canning" );
-leaderTeam42 = new Array( "BAK", "WAR", "MID", "MID", "LAW", "MAD", "BOL", "MAD", "SCR", "SEA" );
-leaderData42 = new Array( "69", "63", "62", "58", "56", "55", "54", "53", "52", "52" );
+leaderName42 = new Array( "T.Walker", "L.Castillo", "L.Severino", "P.Corbin", "C.Mize", "A.Civale", "M.Waldron", "C.Sanchez", "G.Canning", "F.Montas" );
+leaderTeam42 = new Array( "BAK", "WAR", "MID", "BAK", "BAK", "MOH", "LAC", "MID", "SEA", "DAK" );
+leaderData42 = new Array( "81", "75", "63", "63", "61", "60", "59", "59", "58", "58" );
 
-leaderName43 = new Array( "J.Sears", "J.Berrios", "T.Walker", "G.Kirby", "L.Castillo", "Z.Eflin", "M.Waldron", "J.Quintana", "G.Canning", "J.Flaherty" );
-leaderTeam43 = new Array( "LAN", "HBW", "BAK", "MAD", "WAR", "LAC", "LAC", "MAD", "SEA", "BOL" );
-leaderData43 = new Array( "23", "22", "22", "20", "18", "18", "18", "17", "17", "17" );
+leaderName43 = new Array( "T.Walker", "L.Castillo", "J.Sears", "J.Berrios", "G.Kirby", "K.Montero", "J.Assad", "J.Irvin", "G.Canning", "M.Waldron" );
+leaderTeam43 = new Array( "BAK", "WAR", "LAN", "HBW", "MAD", "SHE", "GRE", "ABD", "SEA", "LAC" );
+leaderData43 = new Array( "28", "25", "24", "23", "22", "21", "20", "20", "20", "20" );
 
-leaderName44 = new Array( "C.Morton", "F.Montas", "N.Eovaldi", "L.Gil", "L.Castillo", "L.Severino", "C.Ragans", "B.Miller", "F.Valdez", "R.Blanco" );
-leaderTeam44 = new Array( "LAC", "DAK", "MIL", "BOL", "WAR", "MID", "LAW", "ABD", "SCR", "MOT" );
-leaderData44 = new Array( "53", "48", "47", "46", "46", "44", "44", "42", "42", "41" );
+leaderName44 = new Array( "C.Morton", "F.Montas", "L.Gil", "L.Castillo", "N.Eovaldi", "J.Paxton", "H.Greene", "D.Kremer", "M.Wacha", "T.McKenzie" );
+leaderTeam44 = new Array( "LAC", "DAK", "BOL", "WAR", "MIL", "MOH", "ARB", "ARB", "LAC", "MIL" );
+leaderData44 = new Array( "58", "58", "49", "49", "48", "48", "48", "47", "46", "45" );
 
-leaderName45 = new Array( "B.Miller", "J.Flaherty", "N.Eovaldi", "J.Ryan", "D.Cease", "Z.Wheeler", "P.Skenes", "J.Musgrove", "C.Ragans", "G.Crochet" );
-leaderTeam45 = new Array( "ABD", "BOL", "MIL", "DAK", "MOT", "MOT", "SEA", "DAK", "LAW", "BAK" );
-leaderData45 = new Array( "138", "128", "126", "120", "118", "115", "112", "111", "110", "110" );
+leaderName45 = new Array( "B.Miller", "J.Flaherty", "C.Sale", "N.Eovaldi", "J.Ryan", "H.Greene", "L.Gilbert", "G.Crochet", "L.Webb", "D.Cease" );
+leaderTeam45 = new Array( "ABD", "BOL", "BER", "MIL", "DAK", "ARB", "SHE", "BAK", "GRE", "MOT" );
+leaderData45 = new Array( "148", "141", "137", "135", "130", "124", "122", "121", "119", "118" );
 
-leaderName46 = new Array( "B.Snell", "F.Valdez", "L.Medina", "D.Cease", "C.Doval", "J.Montgomery", "M.Tonkin", "T.Bibee", "F.Cruz", "M.Kopech" );
-leaderTeam46 = new Array( "MAD", "SCR", "MIL", "MOT", "MIL", "WAR", "MID", "MOT", "SHE", "SHE" );
-leaderData46 = new Array( "10", "10", "8", "7", "7", "7", "7", "6", "6", "6" );
+leaderName46 = new Array( "B.Snell", "F.Valdez", "L.Medina", "G.Stone", "D.Cease", "C.Doval", "L.Gilbert", "F.Cruz", "M.Kopech", "J.Montgomery" );
+leaderTeam46 = new Array( "MAD", "SCR", "MIL", "ARB", "MOT", "MIL", "SHE", "SHE", "SHE", "WAR" );
+leaderData46 = new Array( "10", "10", "8", "8", "7", "7", "7", "7", "7", "7" );
 
-leaderName47 = new Array( "T.Myers", "G.Canning", "L.Gil", "E.Peguero", "R.Munoz", "H.Harris", "A.Chapman", "S.Dominguez", "B.Honeywell", "M.Kopech" );
-leaderTeam47 = new Array( "MOH", "SEA", "BOL", "BOL", "BAK", "HBW", "MOT", "ABD", "LAN", "SHE" );
-leaderData47 = new Array( "5", "3", "3", "3", "3", "2", "2", "2", "2", "2" );
+leaderName47 = new Array( "T.Myers", "R.Munoz", "G.Canning", "L.Gil", "E.Peguero", "C.Rodon", "H.Harris", "A.Chapman", "S.Dominguez", "B.Honeywell" );
+leaderTeam47 = new Array( "MOH", "BAK", "SEA", "BOL", "BOL", "MRR", "HBW", "MOT", "ABD", "LAN" );
+leaderData47 = new Array( "7", "4", "3", "3", "3", "3", "2", "2", "2", "2" );
 
-leaderName48 = new Array( "M.King", "T.Houck", "J.Berrios", "D.Cease", "Z.Wheeler", "R.Blanco", "R.Suarez", "Z.Gallen", "G.Kirby", "B.Falter" );
-leaderTeam48 = new Array( "HBW", "HBW", "HBW", "MOT", "MOT", "MOT", "GRE", "ABD", "MAD", "SEA" );
+leaderName48 = new Array( "M.King", "T.Houck", "D.Cease", "Z.Wheeler", "R.Blanco", "R.Suarez", "Z.Gallen", "G.Kirby", "S.Gray", "B.Falter" );
+leaderTeam48 = new Array( "HBW", "HBW", "MOT", "MOT", "MOT", "GRE", "ABD", "MAD", "SCR", "SEA" );
 leaderData48 = new Array( "1.00", "1.00", "1.00", "1.00", "1.00", "1.00", "1.00", "1.00", "1.00", "1.00" );
 
-leaderName49 = new Array( "M.Keller", "C.Mize", "J.Sears", "C.Burnes", "M.Stroman", "M.Waldron", "F.Peralta", "P.Corbin", "R.Detmers", "S.Gray" );
-leaderTeam49 = new Array( "DAK", "BAK", "LAN", "LAW", "ARB", "LAC", "LAW", "BAK", "HBW", "SCR" );
-leaderData49 = new Array( "25", "20", "17", "15", "13", "13", "13", "12", "11", "11" );
+leaderName49 = new Array( "M.Keller", "C.Mize", "J.Sears", "P.Corbin", "S.Manaea", "C.Burnes", "M.Waldron", "S.Gray", "M.Stroman", "F.Peralta" );
+leaderTeam49 = new Array( "DAK", "BAK", "LAN", "BAK", "WAR", "LAW", "LAC", "SCR", "ARB", "LAW" );
+leaderData49 = new Array( "25", "23", "17", "16", "15", "15", "14", "13", "13", "13" );
 
-leaderName50 = new Array( "M.Wacha", "F.Peralta", "N.Eovaldi", "F.Montas", "J.Boyle", "T.McKenzie", "A.Pallante", "C.Morton", "S.Manaea", "G.Kirby" );
-leaderTeam50 = new Array( "LAC", "LAW", "MIL", "DAK", "BAK", "MIL", "LAN", "LAC", "WAR", "MAD" );
-leaderData50 = new Array( ".64", ".65", ".67", ".67", ".67", ".73", ".73", ".73", ".73", ".75" );
+leaderName50 = new Array( "N.Eovaldi", "M.Wacha", "F.Peralta", "C.Rodon", "J.Boyle", "F.Montas", "M.Leiter", "J.Paxton", "T.McKenzie", "A.Pallante" );
+leaderTeam50 = new Array( "MIL", "LAC", "LAW", "MRR", "BAK", "DAK", "SHE", "MOH", "MIL", "LAN" );
+leaderData50 = new Array( ".62", ".64", ".65", ".67", ".67", ".69", ".73", ".73", ".75", ".75" );
 
 leaderName51 = new Array( "", "", "", "", "", "", "", "", "", "" );
 leaderTeam51 = new Array( "", "", "", "", "", "", "", "", "", "" );
@@ -210,19 +210,19 @@ leaderName52 = new Array( "", "", "", "", "", "", "", "", "", "" );
 leaderTeam52 = new Array( "", "", "", "", "", "", "", "", "", "" );
 leaderData52 = new Array( "", "", "", "", "", "", "", "", "", "" );
 
-leaderName53 = new Array( "R.Blanco", "Z.Wheeler", "C.Sale", "S.Imanaga", "D.Cease", "S.Lugo", "B.Francis", "B.Miller", "M.King", "R.Pepiot" );
-leaderTeam53 = new Array( "MOT", "MOT", "BER", "ALI", "MOT", "BER", "BER", "ABD", "HBW", "WAR" );
-leaderData53 = new Array( " 4.3", " 4.8", " 5.2", " 5.6", " 5.8", " 6.1", " 6.2", " 6.4", " 6.6", " 6.6" );
+leaderName53 = new Array( "R.Blanco", "Z.Wheeler", "S.Imanaga", "D.Cease", "C.Sale", "L.Gilbert", "B.Miller", "S.Lugo", "T.Houck", "M.King" );
+leaderTeam53 = new Array( "MOT", "MOT", "ALI", "MOT", "BER", "SHE", "ABD", "BER", "HBW", "HBW" );
+leaderData53 = new Array( " 4.3", " 4.8", " 5.6", " 5.8", " 5.8", " 6.3", " 6.4", " 6.4", " 6.5", " 6.5" );
 
-leaderName54 = new Array( "S.Imanaga", "B.Pfaadt", "J.Ryan", "T.Skubal", "S.Schwellenbach", "Z.Eflin", "G.Kirby", "A.Gomber", "T.Houck", "L.Webb" );
-leaderTeam54 = new Array( "ALI", "PKK", "DAK", "ALI", "MAD", "LAC", "MAD", "MIL", "HBW", "GRE" );
-leaderData54 = new Array( " 1.4", " 1.5", " 1.5", " 1.7", " 1.7", " 1.7", " 1.8", " 1.8", " 1.9", " 1.9" );
+leaderName54 = new Array( "S.Imanaga", "B.Pfaadt", "J.Ryan", "T.Skubal", "T.Houck", "G.Stone", "Z.Eflin", "A.Gomber", "S.Schwellenbach", "G.Kirby" );
+leaderTeam54 = new Array( "ALI", "PKK", "DAK", "ALI", "HBW", "ARB", "LAC", "MIL", "MAD", "MAD" );
+leaderData54 = new Array( " 1.4", " 1.5", " 1.6", " 1.7", " 1.8", " 1.8", " 1.8", " 1.8", " 1.9", " 1.9" );
 
-leaderName55 = new Array( "J.Musgrove", "J.Flaherty", "Z.Gallen", "Y.Kikuchi", "J.Ryan", "B.Miller", "M.King", "C.Sale", "L.Gilbert", "S.Imanaga" );
-leaderTeam55 = new Array( "DAK", "BOL", "ABD", "SCR", "DAK", "ABD", "HBW", "BER", "SHE", "ALI" );
-leaderData55 = new Array( "11.0", "10.9", "10.5", "10.3", "10.3", "10.2", "10.2", "10.1", "10.1", "10.0" );
+leaderName55 = new Array( "J.Musgrove", "J.Flaherty", "L.Gilbert", "B.Miller", "Y.Kikuchi", "Z.Gallen", "H.Greene", "S.Imanaga", "C.Sale", "C.Ragans" );
+leaderTeam55 = new Array( "DAK", "BOL", "SHE", "ABD", "SCR", "ABD", "ARB", "ALI", "BER", "LAW" );
+leaderData55 = new Array( "10.9", "10.9", "10.5", "10.4", "10.3", "10.3", "10.1", "10.0", "10.0", " 9.9" );
 
-leaderName56 = new Array( "C.Sale", "M.King", "S.Lugo", "S.Imanaga", "C.Burnes", "N.Eovaldi", "M.Fried", "T.Houck", "G.Stone", "C.Ragans" );
-leaderTeam56 = new Array( "BER", "HBW", "BER", "ALI", "LAW", "MIL", "MEN", "HBW", "ARB", "LAW" );
-leaderData56 = new Array( " 0.57", " 0.59", " 0.61", " 0.64", " 0.69", " 0.70", " 0.70", " 0.71", " 0.71", " 0.72" );
+leaderName56 = new Array( "J.Steele", "C.Sale", "S.Imanaga", "S.Lugo", "M.King", "C.Burnes", "M.Fried", "S.Gray", "C.Ragans", "T.Houck" );
+leaderTeam56 = new Array( "MRR", "BER", "ALI", "BER", "HBW", "LAW", "MEN", "SCR", "LAW", "HBW" );
+leaderData56 = new Array( " 0.52", " 0.58", " 0.64", " 0.65", " 0.68", " 0.69", " 0.70", " 0.71", " 0.72", " 0.76" );
 
